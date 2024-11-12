@@ -1,19 +1,19 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "𝕯𝖊𝖒𝖔𝖓 𝖐𝖎𝖓𝖌"
-global.dana = "2347041039367"
-global.qris = false
+global.storename = "✞𝖘𝖆𝖌𝖊✞Č_ķãý♡⚡⚡"
+global.dana = "2348069016472"
+global.qris = true 
 
 
 // GLOBAL SETTING
-global.owner = "2347041039367"
+global.owner = "2348069016472"
 global.namabot = "*𝐁𝐋𝐔𝐄𝐃𝐄𝐌𝐎𝐍-𝐕𝟑*"
-global.nomorbot = "2347041039367"
-global.namacreator = "*𝕯𝖊𝖒𝖔𝖓 𝖐𝖎𝖓𝖌* 👾"
-global.linkyt = false
+global.nomorbot = "2348069016472"
+global.namacreator = "✞𝖘𝖆𝖌𝖊✞Č_ķãý♡⚡⚡"
+global.linkyt = true 
 global.autoJoin = false
-global.antilink = false
+global.antilink = true 
 global.versisc = '3.1'
 
 // DELAY JPM
